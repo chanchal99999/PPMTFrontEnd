@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 class Landing extends Component {
   render() {
     return (
-      <div classNameName="landing">
+      <div className="landing">
         <div className="light-overlay landing-inner text-dark">
           <div className="container">
             <div className="row">
